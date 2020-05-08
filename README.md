@@ -4,5 +4,5 @@ CURSO: Topicos en Computacion Grafica
 
 INTEGRANTES: 
 - Jeferson Joel Poma Choque
-- Renzo Cayllahue
+- Renzo Augusto Cayllahue
 - Alfred Guardia Zenteno
