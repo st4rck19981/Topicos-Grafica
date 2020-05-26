@@ -6,3 +6,4 @@ INTEGRANTES:
 - Jeferson Joel Poma Choque
 - Renzo Augusto Cayllahue
 - Alfred Guardia Zenteno
+- Jose Luis Huisa Quispe
