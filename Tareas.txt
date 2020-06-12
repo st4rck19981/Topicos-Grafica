@@ -1,4 +1,9 @@
 TRABAJOS INDIVIDUALES
 
+
 TRABAJOS GRUPALES
-Trabajo Final: Hacer una aplicacion (preferible en  ).exe 
+
+
+
+
+Trabajo Final: Hacer una aplicacion (preferible en .exe) parecida a PAINT donde deben estar todas las funciones que hicimos en clase como: Traslacion, Rotacion, Operadores Logicos, etc. Esto debe ser en varios formatos o solo 1 formato? (BMP, JPG, ...)
